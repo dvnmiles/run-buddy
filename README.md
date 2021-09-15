@@ -14,4 +14,3 @@ https://lernantino.github.io/run-buddy/
 <<<<<<< HEAD
 Made with ❤️ by Devin Miles
 =======
-
